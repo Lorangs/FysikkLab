@@ -7,3 +7,4 @@ FysikkLab for den Beste og mest Macho gruppe.
 yo-N
 Hei
 prøver på nytt-N
+heheh
