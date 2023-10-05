@@ -1,15 +1,16 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.4.22)  28 SEP 2023 12:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.8.14)  5 OCT 2023 10:35
 entering extended mode
- \write18 enabled.
+ restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/loran/OneDrive - NTNU/MAL Elsys Notat to kolonner/designnotat"
-(c:/Users/loran/OneDrive - NTNU/MAL Elsys Notat to kolonner/designnotat.tex
-LaTeX2e <2022-11-01> patch level 1
-L3 programming layer <2023-04-20> (c:/texlive/2023/texmf-dist/tex/latex/base/article.cls
-Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
+**c:/Skole/FysikkLab/Rapport/designnotat.tex
+(c:/Skole/FysikkLab/Rapport/designnotat.tex
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-08-11>
+(c:/texlive/2023/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
 (c:/texlive/2023/texmf-dist/tex/latex/base/size11.clo
-File: size11.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
+File: size11.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count185
 \c@section=\count186
@@ -30,7 +31,7 @@ Package: a4 2023/01/10 v1.2g A4 based page layout
 Package: geometry 2020/01/02 v5.9 Page Geometry
  (c:/texlive/2023/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
-\KV@toks@=\toks16
+\KV@toks@=\toks17
 ) (c:/texlive/2023/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
  (c:/texlive/2023/texmf-dist/tex/generic/iftex/iftex.sty
@@ -47,7 +48,7 @@ Package: iftex 2022/02/03 v1.0f TeX engine tests
 \Gm@layoutheight=\dimen146
 \Gm@layouthoffset=\dimen147
 \Gm@layoutvoffset=\dimen148
-\Gm@dimlist=\toks17
+\Gm@dimlist=\toks18
 ) (c:/texlive/2023/texmf-dist/tex/latex/lm/lmodern.sty
 Package: lmodern 2015/05/01 v1.6.1 Latin Modern Fonts
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
@@ -88,7 +89,7 @@ LaTeX Font Info:    Trying to load font information for T1+lmr on input line 112
  (c:/texlive/2023/texmf-dist/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )) (c:/texlive/2023/texmf-dist/tex/latex/amsmath/amsmath.sty
-Package: amsmath 2022/04/08 v2.17n AMS math features
+Package: amsmath 2023/05/13 v2.17o AMS math features
 \@mathmargin=\skip50
 
 For additional information on amsmath, use the `?' option.
@@ -96,7 +97,7 @@ For additional information on amsmath, use the `?' option.
 Package: amstext 2021/08/26 v2.01 AMS text
  (c:/texlive/2023/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks18
+\@emptytoks=\toks19
 \ex@=\dimen149
 )) (c:/texlive/2023/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
@@ -134,25 +135,25 @@ LaTeX Info: Redefining \Relbar on input line 971.
 \dotsspace@=\muskip16
 \c@parentequation=\count269
 \dspbrk@lvl=\count270
-\tag@help=\toks19
+\tag@help=\toks20
 \row@=\count271
 \column@=\count272
 \maxfields@=\count273
-\andhelp@=\toks20
+\andhelp@=\toks21
 \eqnshift@=\dimen152
 \alignsep@=\dimen153
 \tagshift@=\dimen154
 \tagwidth@=\dimen155
 \totwidth@=\dimen156
 \lineht@=\dimen157
-\@envbody=\toks21
+\@envbody=\toks22
 \multlinegap=\skip51
 \multlinetaggap=\skip52
-\mathdisplay@stack=\toks22
+\mathdisplay@stack=\toks23
 LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
 ) (c:/texlive/2023/texmf-dist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2023-04-20 v7.00w Hypertext links for LaTeX
+Package: hyperref 2023-07-08 v7.01b Hypertext links for LaTeX
  (c:/texlive/2023/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
 Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
 ) (c:/texlive/2023/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
@@ -176,7 +177,7 @@ Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
 ) (c:/texlive/2023/texmf-dist/tex/latex/auxhook/auxhook.sty
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 ) (c:/texlive/2023/texmf-dist/tex/latex/hyperref/nameref.sty
-Package: nameref 2022-05-17 v2.50 Cross-referencing by name of section
+Package: nameref 2023-08-07 v2.53 Cross-referencing by name of section
  (c:/texlive/2023/texmf-dist/tex/latex/refcount/refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ) (c:/texlive/2023/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
@@ -193,7 +194,7 @@ Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 \Hy@linkcounter=\count276
 \Hy@pagecounter=\count277
  (c:/texlive/2023/texmf-dist/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2023-04-20 v7.00w Hyperref: PDFDocEncoding definition (HO)
+File: pd1enc.def 2023-07-08 v7.01b Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 ) (c:/texlive/2023/texmf-dist/tex/generic/intcalc/intcalc.sty
@@ -201,23 +202,23 @@ Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
 \Hy@SavedSpaceFactor=\count278
  (c:/texlive/2023/texmf-dist/tex/latex/hyperref/puenc.def
-File: puenc.def 2023-04-20 v7.00w Hyperref: PDF Unicode definition (HO)
+File: puenc.def 2023-07-08 v7.01b Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
 )
-Package hyperref Info: Hyper figures OFF on input line 4182.
-Package hyperref Info: Link nesting OFF on input line 4187.
-Package hyperref Info: Hyper index ON on input line 4190.
-Package hyperref Info: Plain pages OFF on input line 4197.
-Package hyperref Info: Backreferencing OFF on input line 4202.
+Package hyperref Info: Hyper figures OFF on input line 4167.
+Package hyperref Info: Link nesting OFF on input line 4172.
+Package hyperref Info: Hyper index ON on input line 4175.
+Package hyperref Info: Plain pages OFF on input line 4182.
+Package hyperref Info: Backreferencing OFF on input line 4187.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4449.
+Package hyperref Info: Bookmarks ON on input line 4434.
 \c@Hy@tempcnt=\count279
  (c:/texlive/2023/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 4787.
+LaTeX Info: Redefining \url on input line 4772.
 \XeTeXLinkMargin=\dimen159
  (c:/texlive/2023/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
@@ -227,13 +228,13 @@ Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 \Fld@menulength=\count280
 \Field@Width=\dimen160
 \Fld@charsize=\dimen161
-Package hyperref Info: Hyper figures OFF on input line 6066.
-Package hyperref Info: Link nesting OFF on input line 6071.
-Package hyperref Info: Hyper index ON on input line 6074.
-Package hyperref Info: backreferencing OFF on input line 6081.
-Package hyperref Info: Link coloring OFF on input line 6086.
-Package hyperref Info: Link coloring with OCG OFF on input line 6091.
-Package hyperref Info: PDF/A mode OFF on input line 6096.
+Package hyperref Info: Hyper figures OFF on input line 6051.
+Package hyperref Info: Link nesting OFF on input line 6056.
+Package hyperref Info: Hyper index ON on input line 6059.
+Package hyperref Info: backreferencing OFF on input line 6066.
+Package hyperref Info: Link coloring OFF on input line 6071.
+Package hyperref Info: Link coloring with OCG OFF on input line 6076.
+Package hyperref Info: PDF/A mode OFF on input line 6081.
  (c:/texlive/2023/texmf-dist/tex/latex/base/atbegshi-ltx.sty
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
@@ -244,7 +245,7 @@ package with kernel methods
 )
 Package hyperref Info: Driver: hpdftex.
  (c:/texlive/2023/texmf-dist/tex/latex/hyperref/hpdftex.def
-File: hpdftex.def 2023-04-20 v7.00w Hyperref driver for pdfTeX
+File: hpdftex.def 2023-07-08 v7.01b Hyperref driver for pdfTeX
  (c:/texlive/2023/texmf-dist/tex/latex/base/atveryend-ltx.sty
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
 with kernel methods
@@ -275,9 +276,9 @@ File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
 \Gin@req@height=\dimen162
 \Gin@req@width=\dimen163
 ) (c:/texlive/2023/texmf-dist/tex/latex/caption/caption.sty
-Package: caption 2023/03/12 v3.6j Customizing captions (AR)
+Package: caption 2023/07/31 v3.6n Customizing captions (AR)
  (c:/texlive/2023/texmf-dist/tex/latex/caption/caption3.sty
-Package: caption3 2023/03/12 v2.4 caption3 kernel (AR)
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
 \caption@tempdima=\dimen164
 \captionmargin=\dimen165
 \caption@leftmargin=\dimen166
@@ -298,7 +299,7 @@ Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
 \col@sep=\dimen172
 \ar@mcellbox=\box53
 \extrarowheight=\dimen173
-\NC@list=\toks23
+\NC@list=\toks24
 \extratabsurround=\skip54
 \backup@length=\skip55
 \ar@cellbox=\box54
@@ -309,7 +310,7 @@ Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
 \TX@target=\dimen177
 \TX@delta=\dimen178
 \TX@cols=\count288
-\TX@ftn=\toks24
+\TX@ftn=\toks25
 ) (c:/texlive/2023/texmf-dist/tex/latex/multirow/multirow.sty
 Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
 \multirow@colwidth=\skip56
@@ -317,7 +318,7 @@ Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
 \multirow@dima=\skip57
 \bigstrutjot=\dimen179
 ) (c:/texlive/2023/texmf-dist/tex/latex/tools/multicol.sty
-Package: multicol 2021/11/30 v1.9d multicolumn formatting (FMi)
+Package: multicol 2023/03/30 v1.9f multicolumn formatting (FMi)
 \c@tracingmulticols=\count290
 \mult@box=\box55
 \multicol@leftmargin=\dimen180
@@ -334,12 +335,12 @@ Package: multicol 2021/11/30 v1.9d multicolumn formatting (FMi)
 \multicolbaselineskip=\skip59
 \partial@page=\box56
 \last@line=\box57
+\mc@boxedresult=\box58
 \maxbalancingoverflow=\dimen185
-\mult@rightbox=\box58
-\mult@grightbox=\box59
-\mult@firstbox=\box60
-\mult@gfirstbox=\box61
-\@tempa=\box62
+\mult@rightbox=\box59
+\mult@grightbox=\box60
+\mult@firstbox=\box61
+\mult@gfirstbox=\box62
 \@tempa=\box63
 \@tempa=\box64
 \@tempa=\box65
@@ -375,22 +376,23 @@ Package: multicol 2021/11/30 v1.9d multicolumn formatting (FMi)
 \@tempa=\box95
 \@tempa=\box96
 \@tempa=\box97
+\@tempa=\box98
 \c@minrows=\count296
 \c@columnbadness=\count297
 \c@finalcolumnbadness=\count298
 \last@try=\dimen186
 \multicolovershoot=\dimen187
 \multicolundershoot=\dimen188
-\mult@nat@firstbox=\box98
-\colbreak@box=\box99
+\mult@nat@firstbox=\box99
+\colbreak@box=\box100
 \mc@col@check@num=\count299
 ) (c:/texlive/2023/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count300
-\float@exts=\toks25
-\float@box=\box100
-\@float@everytoks=\toks26
-\@floatcapt=\box101
+\float@exts=\toks26
+\float@box=\box101
+\@float@everytoks=\toks27
+\@floatcapt=\box102
 ) (c:/texlive/2023/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
@@ -399,20 +401,14 @@ LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ) (c:/texlive/2023/texmf-dist/tex/latex/caption/subcaption.sty
-Package: subcaption 2023/02/19 v1.6 Sub-captions (AR)
-Package caption Info: New subtype `subfigure' on input line 239.
+Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
+Package caption Info: New subtype `subfigure' on input line 238.
 \c@subfigure=\count301
-Package caption Info: New subtype `subtable' on input line 239.
+Package caption Info: New subtype `subtable' on input line 238.
 \c@subtable=\count302
 ) (c:/texlive/2023/texmf-dist/tex/latex/siunitx/siunitx.sty
-Package: siunitx 2023-04-13 v3.2.5 A comprehensive (SI) units package
-\l__siunitx_angle_tmp_dim=\dimen189
-\l__siunitx_angle_marker_box=\box102
-\l__siunitx_angle_unit_box=\box103
-\l__siunitx_compound_count_int=\count303
- (c:/texlive/2023/texmf-dist/tex/latex/translations/translations.sty
-Package: translations 2022/02/05 v1.12 internationalization of LaTeX2e packages (CN)
-)
+Package: siunitx 2023-08-03 v3.3.2 A comprehensive (SI) units package
+\l__siunitx_number_uncert_offset_int=\count303
 \l__siunitx_number_exponent_fixed_int=\count304
 \l__siunitx_number_min_decimal_int=\count305
 \l__siunitx_number_min_integer_int=\count306
@@ -422,42 +418,49 @@ Package: translations 2022/02/05 v1.12 internationalization of LaTeX2e packages 
 \l__siunitx_number_group_first_int=\count310
 \l__siunitx_number_group_size_int=\count311
 \l__siunitx_number_group_minimum_int=\count312
-\l__siunitx_table_tmp_box=\box104
+\l__siunitx_angle_tmp_dim=\dimen189
+\l__siunitx_angle_marker_box=\box103
+\l__siunitx_angle_unit_box=\box104
+\l__siunitx_compound_count_int=\count313
+ (c:/texlive/2023/texmf-dist/tex/latex/translations/translations.sty
+Package: translations 2022/02/05 v1.12 internationalization of LaTeX2e packages (CN)
+)
+\l__siunitx_table_tmp_box=\box105
 \l__siunitx_table_tmp_dim=\dimen190
 \l__siunitx_table_column_width_dim=\dimen191
-\l__siunitx_table_integer_box=\box105
-\l__siunitx_table_decimal_box=\box106
-\l__siunitx_table_uncert_box=\box107
-\l__siunitx_table_before_box=\box108
-\l__siunitx_table_after_box=\box109
+\l__siunitx_table_integer_box=\box106
+\l__siunitx_table_decimal_box=\box107
+\l__siunitx_table_uncert_box=\box108
+\l__siunitx_table_before_box=\box109
+\l__siunitx_table_after_box=\box110
 \l__siunitx_table_before_dim=\dimen192
 \l__siunitx_table_carry_dim=\dimen193
-\l__siunitx_unit_tmp_int=\count313
-\l__siunitx_unit_position_int=\count314
-\l__siunitx_unit_total_int=\count315
+\l__siunitx_unit_tmp_int=\count314
+\l__siunitx_unit_position_int=\count315
+\l__siunitx_unit_total_int=\count316
 ) (c:/texlive/2023/texmf-dist/tex/latex/comment/comment.sty
 \CommentStream=\write3
  Excluding comment 'comment') (c:/texlive/2023/texmf-dist/tex/latex/lipsum/lipsum.sty (c:/texlive/2023/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty (c:/texlive/2023/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2023-04-20 L3 programming layer (loader) 
+Package: expl3 2023-08-11 L3 programming layer (loader) 
  (c:/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count316
-\l__pdf_internal_box=\box110
+\l__color_backend_stack_int=\count317
+\l__pdf_internal_box=\box111
 ))
 Package: l3keys2e 2023-02-02 LaTeX2e option processing using LaTeX3 keys
 )
 Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
-\g__lipsum_par_int=\count317
-\l__lipsum_a_int=\count318
-\l__lipsum_b_int=\count319
+\g__lipsum_par_int=\count318
+\l__lipsum_a_int=\count319
+\l__lipsum_b_int=\count320
  (c:/texlive/2023/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex)) (c:/texlive/2023/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2023/04/18 3.88 The Babel package
-\babel@savecnt=\count320
+Package: babel 2023/07/15 v3.92 The Babel package
+\babel@savecnt=\count321
 \U@D=\dimen194
 \l@unhyphenated=\language87
  (c:/texlive/2023/texmf-dist/tex/generic/babel/txtbabel.def)
 \bbl@readstream=\read2
-\bbl@dirlevel=\count321
+\bbl@dirlevel=\count322
  (c:/texlive/2023/texmf-dist/tex/generic/babel-english/english.ldf
 Language: english 2017/06/06 v3.3r English support from the babel system
 Package babel Info: Hyphen rules for 'canadian' set to \l@english
@@ -538,17 +541,17 @@ Package hyperref Info: Link coloring OFF on input line 6.
 
  (c:/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count322
+\scratchcounter=\count323
 \scratchdimen=\dimen195
-\scratchbox=\box111
-\nofMPsegments=\count323
-\nofMParguments=\count324
-\everyMPshowfont=\toks27
-\MPscratchCnt=\count325
+\scratchbox=\box112
+\nofMPsegments=\count324
+\nofMParguments=\count325
+\everyMPshowfont=\toks28
+\MPscratchCnt=\count326
 \MPscratchDim=\dimen196
-\MPnumerator=\count326
-\makeMPintoPDFobject=\count327
-\everyMPtoPDFconversion=\toks28
+\MPnumerator=\count327
+\makeMPintoPDFobject=\count328
+\everyMPtoPDFconversion=\toks29
 ) (c:/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
@@ -570,12 +573,12 @@ Package translations Info: no dictionary file `translations-basic-dictionary-nor
 File: translations-basic-dictionary-english.trsl (english translation file `translations-basic-dictionary')
 )
 Package translations Info: loading dictionary `translations-basic-dictionary' for `english'. on input line 6.
- (./Overskrift_innholdsfortegnelse/Titteltekst.tex
-<Bilder/elsys_2.png, id=32, 9.04375pt x 14.40598pt>
-File: Bilder/elsys_2.png Graphic file (type png)
-<use Bilder/elsys_2.png>
-Package pdftex.def Info: Bilder/elsys_2.png  used on input line 10.
-(pdftex.def)             Requested size: 71.13188pt x 113.3658pt.
+ (./Seksjoner/00_Forside.tex
+<Bilder/Omega_logo.png, id=32, 250.9375pt x 250.9375pt>
+File: Bilder/Omega_logo.png Graphic file (type png)
+<use Bilder/Omega_logo.png>
+Package pdftex.def Info: Bilder/Omega_logo.png  used on input line 10.
+(pdftex.def)             Requested size: 85.35826pt x 85.35973pt.
 LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 11.
  (c:/texlive/2023/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
@@ -608,7 +611,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <12> on input line 15.
-<Bilder/NTNU logo.png, id=34, 284.262pt x 380.8629pt>
+<Bilder/NTNU logo.png, id=33, 284.262pt x 380.8629pt>
 File: Bilder/NTNU logo.png Graphic file (type png)
 <use Bilder/NTNU logo.png>
 Package pdftex.def Info: Bilder/NTNU logo.png  used on input line 18.
@@ -623,34 +626,42 @@ File: Bilder/Futurama_meme.jpg Graphic file (type jpg)
 <use Bilder/Futurama_meme.jpg>
 Package pdftex.def Info: Bilder/Futurama_meme.jpg  used on input line 26.
 (pdftex.def)             Requested size: 398.00781pt x 298.50642pt.
-) (./Overskrift_innholdsfortegnelse/Innholdsfortegnelse.tex (./designnotat.toc)
+(./designnotat.toc)
 \tf@toc=\write5
 \openout5 = `designnotat.toc'.
 
 
-Overfull \hbox (15.0pt too wide) in paragraph at lines 9--10
+Overfull \hbox (15.0pt too wide) in paragraph at lines 38--39
 [][] 
  []
 
 [1
 
-{c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc} <./Bilder/elsys_2.png> <./Bilder/NTNU logo.png> <./Bilder/Futurama_meme.jpg>]) (./Seksjoner/00Problembeskrivelse.tex) (./Seksjoner/01Prinsipiell_losning.tex) [2] (./Seksjoner/02Realisering_og_test.tex) (./Seksjoner/03Diskusjon.tex) (./Seksjoner/04Konklusjon.tex) (./Seksjoner/05Takk.tex) (./designnotat.bbl) (./Seksjoner/06Vedlegg.tex) [3] (./designnotat.aux)
+{c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc} <./Bilder/Omega_logo.png> <./Bilder/NTNU logo.png> <./Bilder/Futurama_meme.jpg>]) (./Seksjoner/01_Problembeskrivelse.tex) (./Seksjoner/02_Prinsipiell_losning.tex) (./Seksjoner/03_Realisering_og_test.tex) (./Seksjoner/04_Diskusjon.tex) (./Seksjoner/05_Konklusjon.tex) (./Seksjoner/06_Takk.tex) (./designnotat.bbl
+
+LaTeX Warning: Empty `thebibliography' environment on input line 23.
+
+) (./Seksjoner/07_Vedlegg.tex) [2{c:/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{c:/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}] (./designnotat.aux)
+ ***********
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-08-11>
+ ***********
 Package rerunfilecheck Info: File `designnotat.out' has not changed.
-(rerunfilecheck)             Checksum: 83449C1FD2ACF8C2454D39AA68CCA6DF;739.
+(rerunfilecheck)             Checksum: B628D10A918D82AD59801A17B604BE6C;744.
  ) 
 Here is how much of TeX's memory you used:
- 17246 strings out of 476001
- 338507 string characters out of 5793197
- 1866068 words of memory out of 5000000
- 37427 multiletter control sequences out of 15000+600000
- 554117 words of font info for 62 fonts, out of 8000000 for 9000
+ 17286 strings out of 475189
+ 338515 string characters out of 5767835
+ 1932248 words of memory out of 5000000
+ 38296 multiletter control sequences out of 15000+600000
+ 601621 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 90i,8n,91p,348b,1126s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmbx10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmbx12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmri10.pfb>
-Output written on designnotat.pdf (3 pages, 215487 bytes).
+ 94i,10n,107p,331b,1011s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmbx10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmbx12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmmi10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmmi8.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr8.pfb>
+Output written on designnotat.pdf (2 pages, 237759 bytes).
 PDF statistics:
- 97 PDF objects out of 1000 (max. 8388607)
- 76 compressed objects within 1 object stream
- 15 named destinations out of 1000 (max. 500000)
+ 113 PDF objects out of 1000 (max. 8388607)
+ 89 compressed objects within 1 object stream
+ 14 named destinations out of 1000 (max. 500000)
  72 words of extra memory for PDF output out of 10000 (max. 10000000)
 

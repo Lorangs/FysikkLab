@@ -9,21 +9,20 @@
 \def\Language{norsk}
 \selectlanguage{\Language}          
 
-%Overskrift
-\input{Overskrift_innholdsfortegnelse/Titteltekst}
 
-%Innholdfortegnelse
-\input{Overskrift_innholdsfortegnelse/Innholdsfortegnelse}
+
+%Forsiden
+\input{Seksjoner/00_Forside}
 
 %Selve rapporten:------------------------------------------
 
 \begin{multicols}{2}
-\input{Seksjoner/00Problembeskrivelse}
-\input{Seksjoner/01Prinsipiell_losning}
-\input{Seksjoner/02Realisering_og_test}
-\input{Seksjoner/03Diskusjon.tex}
-\input{Seksjoner/04Konklusjon}
-\input{Seksjoner/05Takk}
+\input{Seksjoner/01_Problembeskrivelse}
+\input{Seksjoner/02_Prinsipiell_losning}
+\input{Seksjoner/03_Realisering_og_test}
+\input{Seksjoner/04_Diskusjon.tex}
+\input{Seksjoner/05_Konklusjon}
+\input{Seksjoner/06_Takk}
 
 \end{multicols}
 
@@ -32,6 +31,6 @@
 \bibliography{Bibliografi/Referanser.bib}
 
 %Tillegg
-\input{Seksjoner/06Vedlegg}
+\input{Seksjoner/07_Vedlegg}
 
 \end{document}
