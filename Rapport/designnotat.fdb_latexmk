@@ -1,17 +1,17 @@
 # Fdb version 4
-["bibtex designnotat"] 0 "designnotat.aux" "designnotat.bbl" "designnotat" 1696494911 -1
+["bibtex designnotat"] 0 "designnotat.aux" "designnotat.bbl" "designnotat" 1696495392 -1
   "./Bibliografi/IEEEtran.bst" 1695801988 60155 3d527d22adcaa16ca0abd0879d6fab1f ""
   "./Bibliografi/Referanser.bib" 1696401115 2375 29dfffbca162ef9baa00fff90ac802d6 ""
-  "designnotat.aux" 1696494909 2163 f4003e2091f5058f3766137612facc92 "pdflatex"
+  "designnotat.aux" 1696495390 2163 f4003e2091f5058f3766137612facc92 "pdflatex"
   (generated)
   "designnotat.bbl"
   "designnotat.blg"
   (rewritten before read)
-["pdflatex"] 1696494907 "c:/Skole/FysikkLab/Rapport/designnotat.tex" "designnotat.pdf" "designnotat" 1696494911 0
+["pdflatex"] 1696495388 "c:/Skole/FysikkLab/Rapport/designnotat.tex" "designnotat.pdf" "designnotat" 1696495392 0
   "Bilder/Futurama_meme.jpg" 1695801988 35902 f111c8b0c6705b5e92f5fd9bc3d781a9 ""
   "Bilder/NTNU logo.png" 1695801988 56958 b31f278cf3e50aa5211fba4c34291526 ""
   "Bilder/Omega_logo.png" 1696494754 19775 1a83e7c94cf8f6d184ca0435fd2a96e9 ""
-  "Seksjoner/00_Forside.tex" 1696494906 949 5ef49ae1ac9a297d042e952fc652ef67 ""
+  "Seksjoner/00_Forside.tex" 1696495387 1026 7cede8a9020dd4cf3fd39edc42a04857 ""
   "Seksjoner/01_Problembeskrivelse.tex" 1696494300 40 e5f8357bb15e4f82515f56c5328991d4 ""
   "Seksjoner/02_Prinsipiell_losning.tex" 1696494309 42 ed31471b85b45fe7fa55e53251244f08 ""
   "Seksjoner/03_Realisering_og_test.tex" 1696494317 41 a66c3ca26f89848d3cabaaa8a5e5b97f ""
@@ -144,11 +144,11 @@
   "c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1692007028 4687025 676c7d7298543c4303eabe86c426c675 ""
   "c:/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1692007337 8172754 837f329410d515cb3d961dbcd265df82 ""
   "c:/texlive/2023/texmf.cnf" 1692006984 713 e69b156964470283e0530f5060668171 ""
-  "designnotat.aux" 1696494909 2163 f4003e2091f5058f3766137612facc92 "pdflatex"
+  "designnotat.aux" 1696495390 2163 f4003e2091f5058f3766137612facc92 "pdflatex"
   "designnotat.bbl" 1696494373 875 029899f8cae5a02a002a6c630007a1ad "bibtex designnotat"
-  "designnotat.out" 1696494909 744 b628d10a918d82ad59801a17b604be6c "pdflatex"
+  "designnotat.out" 1696495390 744 b628d10a918d82ad59801a17b604be6c "pdflatex"
   "designnotat.tex" 1696401073 750 296ca9636f93a47e9eeab0113ba3e10f ""
-  "designnotat.toc" 1696494909 536 dd368bd01945cda19fc0d6604eee0ef7 "pdflatex"
+  "designnotat.toc" 1696495390 536 dd368bd01945cda19fc0d6604eee0ef7 "pdflatex"
   "packages.sty" 1696264042 2181 5708ae060a11a2ddb52bc570e501e5d2 ""
   (generated)
   "designnotat.aux"

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.8.14)  5 OCT 2023 10:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.8.14)  5 OCT 2023 10:43
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -577,61 +577,61 @@ Package translations Info: loading dictionary `translations-basic-dictionary' fo
 <Bilder/Omega_logo.png, id=32, 250.9375pt x 250.9375pt>
 File: Bilder/Omega_logo.png Graphic file (type png)
 <use Bilder/Omega_logo.png>
-Package pdftex.def Info: Bilder/Omega_logo.png  used on input line 10.
+Package pdftex.def Info: Bilder/Omega_logo.png  used on input line 14.
 (pdftex.def)             Requested size: 85.35826pt x 85.35973pt.
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 11.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 15.
  (c:/texlive/2023/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 11.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 15.
  (c:/texlive/2023/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 11.
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 15.
  (c:/texlive/2023/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 11.
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 15.
  (c:/texlive/2023/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 11.
+(Font)              <10.95> on input line 15.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 11.
+(Font)              <8> on input line 15.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 11.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 11.
+(Font)              <6> on input line 15.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 15.
  (c:/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 11.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 15.
  (c:/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 15.
+(Font)              <12> on input line 19.
 <Bilder/NTNU logo.png, id=33, 284.262pt x 380.8629pt>
 File: Bilder/NTNU logo.png Graphic file (type png)
 <use Bilder/NTNU logo.png>
-Package pdftex.def Info: Bilder/NTNU logo.png  used on input line 18.
+Package pdftex.def Info: Bilder/NTNU logo.png  used on input line 22.
 (pdftex.def)             Requested size: 71.13188pt x 95.30266pt.
 
-Overfull \hbox (19.86664pt too wide) in paragraph at lines 9--20
+Overfull \hbox (19.86664pt too wide) in paragraph at lines 13--24
 []$[]$ $[]$ $[]$ 
  []
 
 <Bilder/Futurama_meme.jpg, id=35, 554.07pt x 415.5525pt>
 File: Bilder/Futurama_meme.jpg Graphic file (type jpg)
 <use Bilder/Futurama_meme.jpg>
-Package pdftex.def Info: Bilder/Futurama_meme.jpg  used on input line 26.
+Package pdftex.def Info: Bilder/Futurama_meme.jpg  used on input line 30.
 (pdftex.def)             Requested size: 398.00781pt x 298.50642pt.
 (./designnotat.toc)
 \tf@toc=\write5
 \openout5 = `designnotat.toc'.
 
 
-Overfull \hbox (15.0pt too wide) in paragraph at lines 38--39
+Overfull \hbox (15.0pt too wide) in paragraph at lines 42--43
 [][] 
  []
 
@@ -658,7 +658,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  94i,10n,107p,331b,1011s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmbx10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmbx12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmmi10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmmi8.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr8.pfb>
-Output written on designnotat.pdf (2 pages, 237759 bytes).
+Output written on designnotat.pdf (2 pages, 241702 bytes).
 PDF statistics:
  113 PDF objects out of 1000 (max. 8388607)
  89 compressed objects within 1 object stream
