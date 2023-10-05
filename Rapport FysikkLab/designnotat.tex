@@ -1,0 +1,37 @@
+\documentclass[11pt, a4paper]{article}
+
+%Henter ulike pakker fra dokumentet packages.sty
+\usepackage{packages}
+
+\begin{document}
+
+%Velger språk fra Babel pakken (se packages.sty)
+\def\Language{norsk}
+\selectlanguage{\Language}          
+
+%Overskrift
+\input{Overskrift_innholdsfortegnelse/Titteltekst}
+
+%Innholdfortegnelse
+\input{Overskrift_innholdsfortegnelse/Innholdsfortegnelse}
+
+%Selve rapporten:------------------------------------------
+
+\begin{multicols}{2}
+\input{Seksjoner/00Problembeskrivelse}
+\input{Seksjoner/01Prinsipiell_losning}
+\input{Seksjoner/02Realisering_og_test}
+\input{Seksjoner/03Diskusjon.tex}
+\input{Seksjoner/04Konklusjon}
+\input{Seksjoner/05Takk}
+
+\end{multicols}
+
+%Bibliografi
+\bibliographystyle{Bibliografi/IEEEtran.bst}
+\bibliography{Bibliografi/Referanser.bib}
+
+%Tillegg
+\input{Seksjoner/06Vedlegg}
+
+\end{document}
