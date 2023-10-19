@@ -1,0 +1,11 @@
+\babel@toc {norsk}{}\relax 
+\babel@toc {norsk}{}\relax 
+\contentsline {section}{\numberline {1}Sammendrag}{2}{section.1}%
+\contentsline {section}{\numberline {2}Introduksjon}{2}{section.2}%
+\contentsline {section}{\numberline {3}Teori}{2}{section.3}%
+\contentsline {section}{\numberline {4}Metode}{2}{section.4}%
+\contentsline {section}{\numberline {5}Resultater}{2}{section.5}%
+\contentsline {section}{\numberline {6}Diskusjon}{2}{section.6}%
+\contentsline {section}{\numberline {7}Konklusjon}{2}{section.7}%
+\contentsline {section}{\numberline {8}Takk}{2}{section.8}%
+\contentsline {section}{\numberline {A}Vedlegg}{2}{appendix.A}%
