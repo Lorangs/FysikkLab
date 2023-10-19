@@ -1,0 +1,39 @@
+\documentclass[11pt, a4paper]{article}
+
+%Henter ulike pakker fra dokumentet packages.sty
+\usepackage{packages}
+
+\begin{document}
+
+%Velger språk fra Babel pakken (se packages.sty)
+\def\Language{norsk}
+\selectlanguage{\Language}          
+
+
+
+%Forsiden
+\input{Seksjoner/00_Forside}
+
+%Selve rapporten:------------------------------------------
+
+\begin{multicols}{2}
+\input{Seksjoner/01_Sammendrag}
+\input{Seksjoner/02_Introduksjon}
+\input{Seksjoner/03_Teori}
+\input{Seksjoner/04_Metode}
+\input{Seksjoner/05_Resultater}
+\input{Seksjoner/06_Diskusjon}
+\input{Seksjoner/07_Konklusjon}
+\input{Seksjoner/08_Takk}
+\input{Seksjoner/09_Vedlegg}
+
+\end{multicols}
+
+%Bibliografi
+\bibliographystyle{Bibliografi/IEEEtran.bst}
+\bibliography{Bibliografi/Referanser.bib}
+
+%Tillegg
+\input{Seksjoner/07_Vedlegg}
+
+\end{document}
