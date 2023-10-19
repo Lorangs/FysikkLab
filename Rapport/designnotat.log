@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.8.14)  19 OCT 2023 08:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.8.14)  19 OCT 2023 08:36
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -574,7 +574,7 @@ File: translations-basic-dictionary-english.trsl (english translation file `tran
 )
 Package translations Info: loading dictionary `translations-basic-dictionary' for `english'. on input line 6.
  (./Seksjoner/00_Forside.tex
-<Bilder/Omega_logo.png, id=32, 250.9375pt x 250.9375pt>
+<Bilder/Omega_logo.png, id=4, 250.9375pt x 250.9375pt>
 File: Bilder/Omega_logo.png Graphic file (type png)
 <use Bilder/Omega_logo.png>
 Package pdftex.def Info: Bilder/Omega_logo.png  used on input line 14.
@@ -611,7 +611,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <12> on input line 19.
-<Bilder/NTNU logo.png, id=33, 284.262pt x 380.8629pt>
+<Bilder/NTNU logo.png, id=5, 284.262pt x 380.8629pt>
 File: Bilder/NTNU logo.png Graphic file (type png)
 <use Bilder/NTNU logo.png>
 Package pdftex.def Info: Bilder/NTNU logo.png  used on input line 22.
@@ -621,7 +621,7 @@ Overfull \hbox (19.86664pt too wide) in paragraph at lines 13--24
 []$[]$ $[]$ $[]$ 
  []
 
-<Bilder/Futurama_meme.jpg, id=35, 554.07pt x 415.5525pt>
+<Bilder/Futurama_meme.jpg, id=7, 554.07pt x 415.5525pt>
 File: Bilder/Futurama_meme.jpg Graphic file (type jpg)
 <use Bilder/Futurama_meme.jpg>
 Package pdftex.def Info: Bilder/Futurama_meme.jpg  used on input line 30.
@@ -637,31 +637,37 @@ Overfull \hbox (15.0pt too wide) in paragraph at lines 42--43
 
 [1
 
-{c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc} <./Bilder/Omega_logo.png> <./Bilder/NTNU logo.png> <./Bilder/Futurama_meme.jpg>]) (./Seksjoner/01_Problembeskrivelse.tex) (./Seksjoner/02_Prinsipiell_losning.tex) (./Seksjoner/03_Realisering_og_test.tex) (./Seksjoner/04_Diskusjon.tex) (./Seksjoner/05_Konklusjon.tex) (./Seksjoner/06_Takk.tex) (./designnotat.bbl
+{c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc} <./Bilder/Omega_logo.png> <./Bilder/NTNU logo.png> <./Bilder/Futurama_meme.jpg>]) (./Seksjoner/01_Sammendrag.tex) (./Seksjoner/02_Introduksjon.tex) (./Seksjoner/03_Teori.tex) (./Seksjoner/04_Metode.tex) (./Seksjoner/05_Resultater.tex) (./Seksjoner/06_Diskusjon.tex) (./Seksjoner/07_Konklusjon.tex) (./Seksjoner/08_Takk.tex) (./Seksjoner/09_Vedlegg.tex
+Overfull \hbox (121.5154pt too wide) in paragraph at lines 6--32
+ [][] 
+ []
+
+) (./designnotat.bbl
 
 LaTeX Warning: Empty `thebibliography' environment on input line 23.
 
-) (./Seksjoner/07_Vedlegg.tex) [2{c:/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{c:/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}] (./designnotat.aux)
- ***********
-LaTeX2e <2023-06-01> patch level 1
-L3 programming layer <2023-08-11>
- ***********
-Package rerunfilecheck Info: File `designnotat.out' has not changed.
-(rerunfilecheck)             Checksum: 46060F20747746FDA7D6ABC9E2A8165C;704.
- ) 
-Here is how much of TeX's memory you used:
- 17286 strings out of 475189
- 338515 string characters out of 5767835
- 1932248 words of memory out of 5000000
- 38296 multiletter control sequences out of 15000+600000
- 601621 words of font info for 67 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 94i,10n,107p,331b,1011s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmbx10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmbx12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmmi10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmmi8.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr8.pfb>
-Output written on designnotat.pdf (2 pages, 241568 bytes).
-PDF statistics:
- 113 PDF objects out of 1000 (max. 8388607)
- 89 compressed objects within 1 object stream
- 14 named destinations out of 1000 (max. 500000)
- 72 words of extra memory for PDF output out of 10000 (max. 10000000)
+)
 
+! LaTeX Error: File `Seksjoner/07_Vedlegg.tex' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: tex)
+
+Enter file name: 
+c:/Skole/FysikkLab/Rapport/designnotat.tex:37: Emergency stop.
+<read *> 
+         
+l.37 \input{Seksjoner/07_Vedlegg}
+                                 ^^M
+*** (cannot \read from terminal in nonstop modes)
+
+ 
+Here is how much of TeX's memory you used:
+ 17273 strings out of 475189
+ 338509 string characters out of 5767835
+ 1938248 words of memory out of 5000000
+ 38291 multiletter control sequences out of 15000+600000
+ 598626 words of font info for 66 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 94i,10n,107p,331b,1025s stack positions out of 10000i,1000n,20000p,200000b,200000s
+c:/Skole/FysikkLab/Rapport/designnotat.tex:37:  ==> Fatal error occurred, no output PDF file produced!
